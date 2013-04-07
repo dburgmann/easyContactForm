@@ -1,0 +1,7 @@
+Licence
+
+Diese Software (contactform) wurde von Daniel Burgmann (www.dburgmann.de) erstellt, 
+Jegliche Verwendung oder Verbreitung ohne ausdrückliche Erlaubnis des Autors (Daniel Burgmann) ist untersagt.
+
+This software (contactform) was created by Daniel Burgmann (www.dburgmann.de).
+Any usage or distribution without explicit permission of the author (Daniel Burgmann) is prohibited.

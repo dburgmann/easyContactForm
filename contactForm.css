@@ -1,0 +1,57 @@
+/* 
+    Document   : contactForm
+    Created on : 02.08.2011, 21:54:54
+    Author     : Daniel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#cf_messageBox{
+    width:288px;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+    
+    font-size: 75%;
+    border:1px solid red;
+    background-color: #F8F8F8;
+}
+
+#cf_messageBox p{
+	margin: 0px 0px 0px 0px;
+}
+
+#cf_wrapper{
+    width: 310px;
+    height: 400px;
+}
+
+#cf_wrapper label{
+    display: inline-block;
+    width: 70px;
+}
+
+#cf_wrapper input{
+    width: 240px;
+	border: 1px solid #a6a6a6;
+}
+
+#cf_wrapper textarea{
+    width: 310px;
+    border: 1px solid #a6a6a6;
+}
+
+#cf_wrapper #cf_submit{
+    display:block;
+    width: 310px;
+}
+
+.cf_mandatory{
+    font-size: 80%;
+    color: red;
+}
+
+#cf_mandatoryNotice{
+    width: 310px;
+    font-size: 80%;
+    text-align:center;
+}
